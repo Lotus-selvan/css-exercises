@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+p{
+    font-family:"Verdana","DejaVu Sans",sans-serif;
+    background-color:rgb(245, 146, 162);
+}
+.p1-5{
+    text-align:center;
+}
+#d1{
+    color:blue;
+    font-size:36px;
+}
+#p2{
+    font-size:24px;
+}
+#d2{
+    background-color:rgb(62, 238, 62);
+    font-size:24px;
+    font-weight:bold;
+}
